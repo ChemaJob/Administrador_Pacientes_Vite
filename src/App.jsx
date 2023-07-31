@@ -2,9 +2,16 @@
 function App() {
 
   return (
-    <div className='App'>
-      <h1>Hola Mundo!</h1>
+    <>
+      <div>
+        <h1>Hola Mundo!</h1>
+        <p>Un párrafo</p>
+      </div>
+      <div>
+        <h1>Hola Mundo!</h1>
+        <p>Un párrafo</p>
     </div>
+  </>
   )
 }
 
