@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 const Formulario = () => {
 
   const Formulario = () => {
-    const [nombre, setNombre] = useState('Hook');
+    const [nombre, setNombre] = useState('');
   }
 
   return (
